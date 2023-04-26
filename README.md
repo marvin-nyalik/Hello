@@ -36,7 +36,6 @@ This project is built with HTML & CSS only!!!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
 - **Demonstrates HTML Markup**
 - **Demonstrates how to link external CSS files**
@@ -48,7 +47,6 @@ This project is built with HTML & CSS only!!!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps:
 **1. Clone this repository**
