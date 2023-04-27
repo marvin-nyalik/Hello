@@ -74,6 +74,6 @@ To get a local copy up and running, follow these steps.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT]('LICENCE.md') licensed.
+This project is [MIT]('./LICENSE.md') licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
