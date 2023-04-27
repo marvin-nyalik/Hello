@@ -6,7 +6,6 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 
@@ -14,13 +13,13 @@
 
 # 📖 MICROVERSE HELLO PROJECT <a name="about-project"></a>
 
-**[microverse hello project]** is a simple project to familiarize with tools and best practices in software development 
+**microverse hello project** is a simple project to familiarize with tools and best practices in software development 
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-This project is built with HTML and CSS only
+This project is built with HTML and CSS
 
 <!-- Features -->
 
@@ -28,9 +27,9 @@ This project is built with HTML and CSS only
 
 > Describe between 1-3 key features of the application.
 
-- **[Demonstrate how to add html markup]**
-- **[Demonstrate adding styles to html markup]**
-- **[Demonstrate linking CSS and HTML files]**
+- **Demonstrate how to add html markup**
+- **Demonstrate adding styles to html markup**
+- **Demonstrate linking CSS and HTML files**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -42,14 +41,12 @@ This project is built with HTML and CSS only
 
 To get a local copy up and running, follow these steps.
 1. Clone this repository
+   > run 'git clone git@github.com:marvin-nyalik/Hello_Microverse.git'
 2. Open it in your preffered text editor
+   >Preferable Visual Studio Code
 3. Serve the index.html file in a local web server
+   >Install the live server extension in VSCode
 
-### Prerequisites
-
-In order to run this project you need:
--A web server
--A browser
 
 <!-- AUTHORS -->
 
@@ -65,10 +62,18 @@ In order to run this project you need:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-- [ ] **[Add Javascript to make it interactive]**
-- [ ] **[Add important external links]**
-- [ ] **[Add a styling framework]**
+- [ ] **Add Javascript to make it interactive**
+- [ ] **Add important external links**
+- [ ] **Add a styling framework**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
